@@ -1,2 +1,3 @@
 # newspaper-article-sarcasm-detection
-Text summarization of news paper articles using TextRank followed by sarcasm detection using CNN/LSTM
+Built a sarcasm detection model using CNN/LSTM from a Sarcasm headlines dataset after initial pre-processing.
+High F1-score and accuracy reported above 97%.
